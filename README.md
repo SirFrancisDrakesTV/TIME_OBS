@@ -50,13 +50,15 @@ Mostrar Continente/Ciudad: Incluye o excluye el continente y la ciudad de la zon
 Prefijo: Personaliza el texto que aparece antes de la hora, por ejemplo, "Hora:".
 Ejemplo de Salida
 El texto en OBS puede configurarse para mostrar, por ejemplo:
-`https://raw.githubusercontent.com/SirFrancisDrakesTV/TIME_OBS/main/Captura%20de%20pantalla%202024-11-26%20082903.png`
+![info1](https://raw.githubusercontent.com/SirFrancisDrakesTV/TIME_OBS/main/Captura%20de%20pantalla%202024-11-26%20082903.png)
+
 Hora: 14:35:12 | GMT+1 | Europe/Madrid
 O, con menos opciones activadas:
 14:35:12
 Capturas de Pantalla
 A continuación, se muestran algunas capturas de pantalla del script en acción:
-`https://github.com/SirFrancisDrakesTV/TIME_OBS/blob/main/Captura%20de%20pantalla%202024-11-26%20082800.png`
+![info2](https://github.com/SirFrancisDrakesTV/TIME_OBS/blob/main/Captura%20de%20pantalla%202024-11-26%20082800.png)
+
 
 
 Contribuciones
